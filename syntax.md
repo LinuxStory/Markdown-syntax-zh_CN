@@ -1,13 +1,14 @@
 Markdown 文件
 ==================
 
-![Markdown](http://markdown.tw/images/208x128.png)
+![Markdown](http://www.linuxstory.org/wp-content/uploads/2016/01/Markdown-mark-middle.svg_-300x185.png)
 
-**NOTE:** This is Traditional Chinese Edition Document of
-Markdown Syntax. If you are seeking for English Edition 
-Document. Please refer to [Markdown: Syntax][eng-doc].
+**NOTE:** 本文参考繁体中文版：《Markdown語法說明》  英文版：《Markdown Syntax》 翻译而成，wowubuntu.com 的 Riku 同学之前有发表过针对繁体版本简化及转换的简体版并托管在 GitCafe 上，但是感觉不太完善，所以Linux Story 又更新了此版本托管在 Markdown-syntax-zh_CN-GitHub 上，欢迎继续完善。Markdown 网页版请参阅http://www.linuxstory.org/docs/markdown/
 
-[eng-doc]:http://daringfireball.net/projects/markdown/syntax
+[Markdown-syntax-zh_CN-GitHub]:https://github.com/LinuxStory/Markdown-syntax-zh_CN
+[《Markdown Syntax》]:http://daringfireball.net/projects/markdown/syntax
+[《Markdown語法說明》]:http://markdown.tw/
+
 
 Markdown: Syntax
 ================
